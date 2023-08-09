@@ -1,0 +1,110 @@
+h1 {
+    padding: 30px;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+.box {
+    margin-left: 40%;
+    height: 429px;
+    width: 300px;
+    border: 10px solid black;
+    background-color: rgb(27, 27, 27);
+}
+
+.screen {
+    margin-left: 15%;
+    margin-top: 9%;
+    height: 70px;
+    width: 200px;
+    border: 10px solid grey;
+    background-color: white;
+    text-align: center;
+}
+
+button {
+    margin-top: 9%;
+    height: 35px;
+    width: 70px;
+    font-weight: bold;
+}
+
+
+.div {
+    color: #000;
+    font-size: large;
+}
+
+.nine {
+    color: #000;
+}
+
+.eight {
+    color: #000;
+}
+
+.seven {
+    color: #000;
+}
+
+.mul {
+    color: #000;
+}
+
+.six {
+    color: #000;
+}
+
+.five {
+    color: #000;
+}
+
+.four {
+    color: #000;
+}
+
+.minus {
+    color: #000;
+    font-size: large;
+}
+
+.three {
+    color: #000;
+}
+
+.two {
+    color: #000;
+}
+
+.one {
+    color: #000;
+}
+
+.add {
+    color: #000;
+    font-size: large;
+}
+
+
+
+.zero {
+    color: #000;
+}
+
+
+.equal {
+    color: #000;
+}
+
+.undo {
+    color: black;
+    background-color: red;
+}
+
+.cancel {
+    color: black;
+    background-color: blue;
+}
